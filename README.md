@@ -6,7 +6,7 @@ plugin para exibição de fotos
 <br />
 &lt;script type="text/javascript" src="rs-plugin/msvfancybox/msvfancybox.js"&gt;&lt;/script&gt;
 
-&lt;a class="fancybox" href="#" data-title="tetando 123" data-textleft="Esquerda" data-textright="Direita"&gt;
+&lt;a class="fancybox" href="#" data-title="testando 123" data-textleft="Esquerda" data-textright="Direita"&gt;
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&lt;img src="suaimagemaki" alt="" /&gt;
 <br />
