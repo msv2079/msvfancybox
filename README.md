@@ -1,7 +1,7 @@
 # msvfancybox
 plugin para exibição de fotos
 
-#Uso
+# Uso
 <link rel="stylesheet" href="rs-plugin/msvfancybox/msvstylefancybox.css" type="text/css">
 <script type="text/javascript" src="rs-plugin/msvfancybox/msvfancybox.js"></script>
 
